@@ -1,0 +1,33 @@
+p {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(51, 0, 26);
+}
+
+body {
+    background-image: url(fundo.jpg);
+}
+
+img {
+    margin-top: 50px;
+    margin-left: 30%;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-size: 15px;
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 20px;
+
+}
